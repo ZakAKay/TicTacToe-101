@@ -7,10 +7,23 @@ td {
   height:150px;
   width:150px;
   text-align: center;
-  border: 5px solid black;
+  border: 5px solid blueviolet;
   font-size: 100px;
 }
 
 table {
   margin: auto auto;
+}
+body{
+  background-color: aqua;
+}
+h1 {
+  color: blueviolet;
+}
+p{
+  color: blueviolet;
+}
+button{
+  color: blueviolet;
+  background-color: black;
 }
